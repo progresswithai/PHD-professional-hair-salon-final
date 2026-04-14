@@ -1,0 +1,21 @@
+{
+					"display": "standalone",
+					"orientation": "portrait",
+					"short_name": "HiralPatel",
+					"name": "HiralPatel - ",
+					"start_url": "https://hpbeautys.com/?utm_source=homescreen",
+					"theme_color": "#000000",
+					"background_color": "#000000",
+					"icons": [
+						{
+						"src": "https://hpbeautys.com/wp-content/themes/kitring-child/favicon.png",
+						"type": "image/png",
+						"sizes": "192x192"
+						},
+						{
+						"src": "https://hpbeautys.com/wp-content/themes/kitring-child/favicon.png",
+						"type": "image/png",
+						"sizes": "512x512"
+						}
+					]
+				}

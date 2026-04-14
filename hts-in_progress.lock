@@ -1,0 +1,5 @@
+Mirror in progress since Tue, 14 Apr 2026 17:00:14 .. please wait!
+"C:\Program Files\WinHTTrack\httrack.exe" https://hpbeautys.com/ -O "d:\PHD Professional" -s0 -K0 -r2 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=38676
+START=1776166214
